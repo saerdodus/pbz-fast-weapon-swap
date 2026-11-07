@@ -1,0 +1,10 @@
+# Runtime logs produced by the mod
+*_log.txt
+
+# Local/user overrides
+config.local.txt
+
+# Editor / OS noise
+*.swp
+.DS_Store
+Thumbs.db
